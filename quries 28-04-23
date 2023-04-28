@@ -1,0 +1,14 @@
+select lower('DIKSha')"Lower case", upper('diksHA'),initcap ('dikshA  varshney') from dual;
+select abs(-11) from dual;
+select ceil(11.0) from dual;
+
+select length('7dsbagas') from dual;
+select concat('diksha','varshney') from dual;
+select round(885.24549,2) from dual;
+select substr ('diksh varshney',-2,3) from dual;
+select substr ('diksh varshney',4,5) from dual;
+
+									    kha se lega  ! ! kitna tk lega
+																   ! !
+select substr('shivam kumar gupta',3,5) from dual;
+select to_char (56,99.99) from dual;
